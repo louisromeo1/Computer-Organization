@@ -1,0 +1,24 @@
+EVENS START
+4444
+22
+888
+EVENS END
+jan: 4444
+feb: 333
+mar: 22
+apr: 1
+may: 9999
+jun: 888
+
+
+Testcase Variable Dump:
+4444
+333
+22
+1
+9999
+888
+0
+0
+1
+1
