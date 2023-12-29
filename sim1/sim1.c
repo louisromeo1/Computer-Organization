@@ -52,5 +52,6 @@ void execute_add(Sim1Data *obj) {
 		obj -> overflow = 1;   
 	} else { 
 		obj -> overflow = 0;
-	}	
+	}
+	
 }
