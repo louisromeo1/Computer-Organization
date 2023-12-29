@@ -1,0 +1,17 @@
+Swap at: 1
+Swap at: 2
+Swap at: 3
+Swap at: 4
+Swap at: 0
+Swap at: 1
+Swap at: 2
+Swap at: 3
+Swap at: 0
+Swap at: 1
+Swap at: 2
+Swap at: 1
+Swap at: 0
++-------------------------------+
+|    Testcase Variable Dump:    |
++-------------------------------+
+-1000 -17 0 1236 10240 1012313
