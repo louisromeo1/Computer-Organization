@@ -1,0 +1,57 @@
+a
+bb
+ccc
+dddd
+eeeee
+ffffff
+ggggggg
+hhhhhhhh
+iiiiiiiii
+jjjjjjjjjj
+kkkkkkkkkkk
+llllllllllll
+mmmmmmmmmmmmm
+nnnnnnnnnnnnnn
+ooooooooooooooo
+pppppppppppppppp
+qqqqqqqqqqqqqqqqq
+rrrrrrrrrrrrrrrrrr
+sssssssssssssssssss
+tttttttttttttttttttt
+uuuuuuuuuuuuuuuuuuuuu
+vvvvvvvvvvvvvvvvvvvvvv
+wwwwwwwwwwwwwwwwwwwwwww
+xxxxxxxxxxxxxxxxxxxxxxxx
+yyyyyyyyyyyyyyyyyyyyyyyyy
+zzzzzzzzzzzzzzzzzzzzzzzzzz
+letterTree() returned: 26
+a
+kk
+uuu
+letterTree() returned: 30
+a
+ee
+iii
+mmmm
+qqqqq
+uuuuuu
+yyyyyyy
+letterTree() returned: 28
+
++-----------------------------------------------------------+
+|    Magic Value (popped from the stack):                   |
++-----------------------------------------------------------+
+59fc541d
+
++-----------------------------------------------------------+
+|    Testcase Register Dump (fp, then 8 sX regs):           |
++-----------------------------------------------------------+
+e82f628e
+3a556cde
+1d0fac96
+e09ab76d
+a16723fb
+1201656c
+344f5ef7
+ad717f68
+23adbed2

@@ -1,0 +1,72 @@
+123
+456 228 114 57
+172 86 43
+130 65
+196 98 49
+148 74 37
+112 56 28 14 7
+22 11
+34 17
+52 26 13
+40 20 10 5
+16 8 4 2 1
+collatz(456) completed after 10 calls to collatz_line().
+
+percentSearch() returned: 13
+percentSearch() returned: -1
+percentSearch() returned: 0
+a
+hh
+ooo
+vvvv
+letterTree() returned: 28
+a
+xx
+ooo
+ffff
+letterTree() returned: 92
+a
+bb
+ccc
+dddd
+eeeee
+ffffff
+ggggggg
+hhhhhhhh
+iiiiiiiii
+jjjjjjjjjj
+kkkkkkkkkkk
+llllllllllll
+mmmmmmmmmmmmm
+nnnnnnnnnnnnnn
+ooooooooooooooo
+pppppppppppppppp
+qqqqqqqqqqqqqqqqq
+rrrrrrrrrrrrrrrrrr
+sssssssssssssssssss
+tttttttttttttttttttt
+uuuuuuuuuuuuuuuuuuuuu
+vvvvvvvvvvvvvvvvvvvvvv
+wwwwwwwwwwwwwwwwwwwwwww
+xxxxxxxxxxxxxxxxxxxxxxxx
+yyyyyyyyyyyyyyyyyyyyyyyyy
+zzzzzzzzzzzzzzzzzzzzzzzzzz
+letterTree() returned: 26
+
++-----------------------------------------------------------+
+|    Magic Value (popped from the stack):                   |
++-----------------------------------------------------------+
+c0c0fefe
+
++-----------------------------------------------------------+
+|    Testcase Register Dump (fp, then 8 sX regs):           |
++-----------------------------------------------------------+
+ffffffff
+12345678
+9abcdef0
+deadbeef
+c0d4f00d
+0c0010ff
+cafebabe
+2468ace0
+13579bdf

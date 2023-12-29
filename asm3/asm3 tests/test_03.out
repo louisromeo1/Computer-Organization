@@ -1,0 +1,21 @@
+percentSearch() returned: 4
+percentSearch() returned: 0
+percentSearch() returned: -1
+
++-----------------------------------------------------------+
+|    Magic Value (popped from the stack):                   |
++-----------------------------------------------------------+
+59fc541d
+
++-----------------------------------------------------------+
+|    Testcase Register Dump (fp, then 8 sX regs):           |
++-----------------------------------------------------------+
+e82f628e
+3a556cde
+1d0fac96
+e09ab76d
+a16723fb
+1201656c
+344f5ef7
+ad717f68
+23adbed2
