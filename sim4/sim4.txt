@@ -1,7 +1,7 @@
 Louis Romeo
 Sim 4
 
-The extra instructions I decided to implement were ANDI, BNE, and SLL
+The extra instructions I decided to implement were ANDI, BNE, and SLL.
 
 For ANDI implementation I added a proper opcode and made it so that the immediate value would always be
 zero extended. For BNE I added an opcode if else block and a new alu op. Additionally for SLL added valid
