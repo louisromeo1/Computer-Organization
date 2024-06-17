@@ -1,4 +1,4 @@
 Author: Louis Romeo
 Date: 10/4/2023
+Description: This program converts code to MIPS given simple C code blocks, does so in seperate functions.
 Grade: 100/100
-Description: This program we were given simple C code blocks to convert to MIPS in seperate functions.
